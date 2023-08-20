@@ -70,3 +70,6 @@ li:first-letter {
   font-size: 16px;
   opacity: 0.4;
 }
+.weather-forecast-temperature-min {
+  opacity: 0.4;
+}
